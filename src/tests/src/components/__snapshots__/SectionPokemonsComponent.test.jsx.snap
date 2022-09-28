@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SectionPokemonComponent /> Debe hacer match con el snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      <div
+        class="section"
+      >
+        <div
+          class="box1"
+        >
+          <div
+            id="SearcherComponent"
+          >
+            <div
+              class="search-container"
+            >
+              <img
+                alt="mySvgImage"
+                src="search-svgrepo-com.svg"
+              />
+              <input
+                name="search-input"
+                placeholder="Buscar"
+              />
+            </div>
+          </div>
+          <div>
+            <div
+              class="list-container"
+            />
+            <div
+              class="buttons-container"
+            >
+              <div>
+                <button
+                  class="btn"
+                  style="margin-left: 10px;"
+                  type="button"
+                >
+                  &lt; Atras
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box2"
+        >
+          <div
+            class="card-pokemon-info"
+          >
+            <div
+              class="header-card-info"
+            >
+              <div
+                class="card-pokemon-info-container"
+              />
+            </div>
+            <div
+              class="details-pokemon"
+            >
+              <div>
+                <h5>
+                  Types
+                </h5>
+              </div>
+              <div>
+                <h5>
+                  Peso
+                </h5>
+                <span>
+                  kg
+                </span>
+              </div>
+              <div>
+                <h5>
+                  Sprites
+                </h5>
+                <div
+                  class="sprites-container"
+                />
+              </div>
+              <div>
+                <h5>
+                  Movimientos
+                </h5>
+              </div>
+            </div>
+          </div>
+          <div
+            class="buttons-container2"
+          >
+            <div>
+              <button
+                class="btn"
+                style="margin-top: 5px;"
+                type="button"
+              >
+                Siguiente &gt;
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
